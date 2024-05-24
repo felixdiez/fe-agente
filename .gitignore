@@ -2,3 +2,6 @@
 __pycache__/
 .DS_Store
 secrets.toml
+develop.env
+./streamlit/secrets.toml
+
